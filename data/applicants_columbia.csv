@@ -1,0 +1,6 @@
+applicant_number,last_name,first_name,sat,gpa,transcripts,essay,lor,extracurriculars
+2029001,Lee,Jordan,1400,3.5,complete,in_progress,missing,"Debate captain; Research internship; Community tutoring"
+2029002,Patel,Anika,1500,3.7,complete,complete,complete,"Robotics team lead; Science fair finalist; Volunteer EMT"
+2029003,Garcia,Mateo,1450,3.6,complete,missing,in_progress,"Varsity soccer; Coding club; Food bank volunteer"
+2029004,Chen,Sophia,1550,3.9,complete,complete,complete,"Published research (STEM); Piano (10 years); Peer mentoring"
+2029005,Williams,Taylor,1600,3.8,complete,in_progress,missing,"Student government; Hackathon winner; Varsity track"

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.DS_Store
+experiments/results.json
+experiments/results.md
+backend/app/rag/index.pkl
+backend/app/rag/vectorizer.pkl
+backend/app/aac.db
